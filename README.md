@@ -25,7 +25,7 @@ It uses as base the Wordpress Framework 4.9.5 and MySql Database 5.7.19.
 For that, it is enough for:
 - Make a git clone of the repository
 	- git clone https://github.com/danilomeneghel/plugin_omdb.git
-- Set up the DB
+- Import the plugin into .zip format on your Wordpress
 
 ## Connection
 To be able to connect, I advise you to create an account on the project.
