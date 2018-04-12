@@ -27,8 +27,8 @@ For that, it is enough for:
 	- git clone https://github.com/danilomeneghel/plugin_omdb.git
 - Import the plugin into .zip format on your Wordpress
 - Create pages:
-	- Movies with tag: [login_redirect][omdb_movies]
-	- Favorites with tag: [login_redirect][omdb_favorites]
+	- Movies with tag: <br>[login_redirect][omdb_movies]
+	- Favorites with tag: \n[login_redirect][omdb_favorites]
 
 ## Connection
 To be able to connect, I advise you to create an account on the project.
