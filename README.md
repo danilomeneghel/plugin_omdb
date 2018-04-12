@@ -28,7 +28,7 @@ For that, it is enough for:
 - Import the plugin into .zip format on your Wordpress
 - Create pages:
 	- Movies with tag: <br>[login_redirect][omdb_movies]
-	- Favorites with tag: \n[login_redirect][omdb_favorites]
+	- Favorites with tag: <br>[login_redirect][omdb_favorites]
 
 ## Connection
 To be able to connect, I advise you to create an account on the project.
